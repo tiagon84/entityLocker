@@ -1,0 +1,4 @@
+com\ecore\lock\IEntityLocker.class
+com\ecore\lock\EntityLocker$1.class
+com\ecore\lock\EntityLocker.class
+com\ecore\lock\EntityLocker$EntityLockerWrapper.class
